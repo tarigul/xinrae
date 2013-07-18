@@ -1,0 +1,4 @@
+Dependings:
+    - Python 2
+    - openssl
+    - pigz
